@@ -1,0 +1,63 @@
+D:\Desktop\Chart_Replicator\Chart_Replicator\bin\Debug\Chart_Replicator.exe.config
+D:\Desktop\Chart_Replicator\Chart_Replicator\bin\Debug\Chart_Replicator.exe
+D:\Desktop\Chart_Replicator\Chart_Replicator\bin\Debug\Chart_Replicator.pdb
+D:\Desktop\Chart_Replicator\Chart_Replicator\obj\Debug\Chart_Replicator.csproj.AssemblyReference.cache
+D:\Desktop\Chart_Replicator\Chart_Replicator\obj\Debug\Chart_Replicator.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Chart_Replicator\Chart_Replicator\obj\Debug\Chart_Replicator.Form1.resources
+D:\Desktop\Chart_Replicator\Chart_Replicator\obj\Debug\Chart_Replicator.Properties.Resources.resources
+D:\Desktop\Chart_Replicator\Chart_Replicator\obj\Debug\Chart_Replicator.csproj.GenerateResource.cache
+D:\Desktop\Chart_Replicator\Chart_Replicator\obj\Debug\Chart_Replicator.csproj.CoreCompileInputs.cache
+D:\Desktop\Chart_Replicator\Chart_Replicator\obj\Debug\Chart_Replicator.exe
+D:\Desktop\Chart_Replicator\Chart_Replicator\obj\Debug\Chart_Replicator.pdb
+D:\Desktop\Chart_Replicator\Chart_Replicator\obj\Debug\Chart_Replicator.Form2.resources
+D:\OneDrive\ENG\_Study_abroad\06_CS_Learning\06_.Net平台下的軟件開發技術 Specialization\02_sk_assignments\PQ_Replicator_net48\Chart_Replicator\bin\Debug\Chart_Replicator.exe.config
+D:\OneDrive\ENG\_Study_abroad\06_CS_Learning\06_.Net平台下的軟件開發技術 Specialization\02_sk_assignments\PQ_Replicator_net48\Chart_Replicator\bin\Debug\Chart_Replicator.exe
+D:\OneDrive\ENG\_Study_abroad\06_CS_Learning\06_.Net平台下的軟件開發技術 Specialization\02_sk_assignments\PQ_Replicator_net48\Chart_Replicator\bin\Debug\Chart_Replicator.pdb
+D:\OneDrive\ENG\_Study_abroad\06_CS_Learning\06_.Net平台下的軟件開發技術 Specialization\02_sk_assignments\PQ_Replicator_net48\Chart_Replicator\obj\Debug\Chart_Replicator.csproj.AssemblyReference.cache
+D:\OneDrive\ENG\_Study_abroad\06_CS_Learning\06_.Net平台下的軟件開發技術 Specialization\02_sk_assignments\PQ_Replicator_net48\Chart_Replicator\obj\Debug\Chart_Replicator.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive\ENG\_Study_abroad\06_CS_Learning\06_.Net平台下的軟件開發技術 Specialization\02_sk_assignments\PQ_Replicator_net48\Chart_Replicator\obj\Debug\Chart_Replicator.Form1.resources
+D:\OneDrive\ENG\_Study_abroad\06_CS_Learning\06_.Net平台下的軟件開發技術 Specialization\02_sk_assignments\PQ_Replicator_net48\Chart_Replicator\obj\Debug\Chart_Replicator.Form2.resources
+D:\OneDrive\ENG\_Study_abroad\06_CS_Learning\06_.Net平台下的軟件開發技術 Specialization\02_sk_assignments\PQ_Replicator_net48\Chart_Replicator\obj\Debug\Chart_Replicator.Properties.Resources.resources
+D:\OneDrive\ENG\_Study_abroad\06_CS_Learning\06_.Net平台下的軟件開發技術 Specialization\02_sk_assignments\PQ_Replicator_net48\Chart_Replicator\obj\Debug\Chart_Replicator.csproj.GenerateResource.cache
+D:\OneDrive\ENG\_Study_abroad\06_CS_Learning\06_.Net平台下的軟件開發技術 Specialization\02_sk_assignments\PQ_Replicator_net48\Chart_Replicator\obj\Debug\Chart_Replicator.csproj.CoreCompileInputs.cache
+D:\OneDrive\ENG\_Study_abroad\06_CS_Learning\06_.Net平台下的軟件開發技術 Specialization\02_sk_assignments\PQ_Replicator_net48\Chart_Replicator\obj\Debug\Chart_Replicator.exe
+D:\OneDrive\ENG\_Study_abroad\06_CS_Learning\06_.Net平台下的軟件開發技術 Specialization\02_sk_assignments\PQ_Replicator_net48\Chart_Replicator\obj\Debug\Chart_Replicator.pdb
+D:\Desktop\PQ_Replicator_net48_v1.0.3\Chart_Replicator\bin\Debug\Chart_Replicator.exe.config
+D:\Desktop\PQ_Replicator_net48_v1.0.3\Chart_Replicator\bin\Debug\Chart_Replicator.exe
+D:\Desktop\PQ_Replicator_net48_v1.0.3\Chart_Replicator\bin\Debug\Chart_Replicator.pdb
+D:\Desktop\PQ_Replicator_net48_v1.0.3\Chart_Replicator\obj\Debug\Chart_Replicator.csproj.AssemblyReference.cache
+D:\Desktop\PQ_Replicator_net48_v1.0.3\Chart_Replicator\obj\Debug\Chart_Replicator.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\PQ_Replicator_net48_v1.0.3\Chart_Replicator\obj\Debug\Chart_Replicator.Form1.resources
+D:\Desktop\PQ_Replicator_net48_v1.0.3\Chart_Replicator\obj\Debug\Chart_Replicator.Form2.resources
+D:\Desktop\PQ_Replicator_net48_v1.0.3\Chart_Replicator\obj\Debug\Chart_Replicator.Properties.Resources.resources
+D:\Desktop\PQ_Replicator_net48_v1.0.3\Chart_Replicator\obj\Debug\Chart_Replicator.csproj.GenerateResource.cache
+D:\Desktop\PQ_Replicator_net48_v1.0.3\Chart_Replicator\obj\Debug\Chart_Replicator.csproj.CoreCompileInputs.cache
+D:\Desktop\PQ_Replicator_net48_v1.0.3\Chart_Replicator\obj\Debug\Chart_Replicator.exe
+D:\Desktop\PQ_Replicator_net48_v1.0.3\Chart_Replicator\obj\Debug\Chart_Replicator.pdb
+D:\Desktop\PQ_Replicator_net48_v1.0.3\Chart_Replicator\obj\Debug\Chart_Replicator.Form3.resources
+D:\OneDrive\ENG\_Study_abroad\06_CS_Learning\06_.Net平台下的軟件開發技術 Specialization\02_sk_assignments\PQ_Replicator_net48_v1.0.3\Chart_Replicator\bin\Debug\Chart_Replicator.exe.config
+D:\OneDrive\ENG\_Study_abroad\06_CS_Learning\06_.Net平台下的軟件開發技術 Specialization\02_sk_assignments\PQ_Replicator_net48_v1.0.3\Chart_Replicator\bin\Debug\Chart_Replicator.exe
+D:\OneDrive\ENG\_Study_abroad\06_CS_Learning\06_.Net平台下的軟件開發技術 Specialization\02_sk_assignments\PQ_Replicator_net48_v1.0.3\Chart_Replicator\bin\Debug\Chart_Replicator.pdb
+D:\OneDrive\ENG\_Study_abroad\06_CS_Learning\06_.Net平台下的軟件開發技術 Specialization\02_sk_assignments\PQ_Replicator_net48_v1.0.3\Chart_Replicator\obj\Debug\Chart_Replicator.csproj.AssemblyReference.cache
+D:\OneDrive\ENG\_Study_abroad\06_CS_Learning\06_.Net平台下的軟件開發技術 Specialization\02_sk_assignments\PQ_Replicator_net48_v1.0.3\Chart_Replicator\obj\Debug\Chart_Replicator.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive\ENG\_Study_abroad\06_CS_Learning\06_.Net平台下的軟件開發技術 Specialization\02_sk_assignments\PQ_Replicator_net48_v1.0.3\Chart_Replicator\obj\Debug\Chart_Replicator.Form1.resources
+D:\OneDrive\ENG\_Study_abroad\06_CS_Learning\06_.Net平台下的軟件開發技術 Specialization\02_sk_assignments\PQ_Replicator_net48_v1.0.3\Chart_Replicator\obj\Debug\Chart_Replicator.Form2.resources
+D:\OneDrive\ENG\_Study_abroad\06_CS_Learning\06_.Net平台下的軟件開發技術 Specialization\02_sk_assignments\PQ_Replicator_net48_v1.0.3\Chart_Replicator\obj\Debug\Chart_Replicator.Form3.resources
+D:\OneDrive\ENG\_Study_abroad\06_CS_Learning\06_.Net平台下的軟件開發技術 Specialization\02_sk_assignments\PQ_Replicator_net48_v1.0.3\Chart_Replicator\obj\Debug\Chart_Replicator.Properties.Resources.resources
+D:\OneDrive\ENG\_Study_abroad\06_CS_Learning\06_.Net平台下的軟件開發技術 Specialization\02_sk_assignments\PQ_Replicator_net48_v1.0.3\Chart_Replicator\obj\Debug\Chart_Replicator.csproj.GenerateResource.cache
+D:\OneDrive\ENG\_Study_abroad\06_CS_Learning\06_.Net平台下的軟件開發技術 Specialization\02_sk_assignments\PQ_Replicator_net48_v1.0.3\Chart_Replicator\obj\Debug\Chart_Replicator.csproj.CoreCompileInputs.cache
+D:\OneDrive\ENG\_Study_abroad\06_CS_Learning\06_.Net平台下的軟件開發技術 Specialization\02_sk_assignments\PQ_Replicator_net48_v1.0.3\Chart_Replicator\obj\Debug\Chart_Replicator.exe
+D:\OneDrive\ENG\_Study_abroad\06_CS_Learning\06_.Net平台下的軟件開發技術 Specialization\02_sk_assignments\PQ_Replicator_net48_v1.0.3\Chart_Replicator\obj\Debug\Chart_Replicator.pdb
+D:\Desktop\PQ_Replicator_v1.0.4_net48\Chart_Replicator\bin\Debug\Chart_Replicator.exe.config
+D:\Desktop\PQ_Replicator_v1.0.4_net48\Chart_Replicator\bin\Debug\Chart_Replicator.exe
+D:\Desktop\PQ_Replicator_v1.0.4_net48\Chart_Replicator\bin\Debug\Chart_Replicator.pdb
+D:\Desktop\PQ_Replicator_v1.0.4_net48\Chart_Replicator\obj\Debug\Chart_Replicator.csproj.AssemblyReference.cache
+D:\Desktop\PQ_Replicator_v1.0.4_net48\Chart_Replicator\obj\Debug\Chart_Replicator.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\PQ_Replicator_v1.0.4_net48\Chart_Replicator\obj\Debug\Chart_Replicator.Form1.resources
+D:\Desktop\PQ_Replicator_v1.0.4_net48\Chart_Replicator\obj\Debug\Chart_Replicator.Form2.resources
+D:\Desktop\PQ_Replicator_v1.0.4_net48\Chart_Replicator\obj\Debug\Chart_Replicator.Form3.resources
+D:\Desktop\PQ_Replicator_v1.0.4_net48\Chart_Replicator\obj\Debug\Chart_Replicator.Properties.Resources.resources
+D:\Desktop\PQ_Replicator_v1.0.4_net48\Chart_Replicator\obj\Debug\Chart_Replicator.csproj.GenerateResource.cache
+D:\Desktop\PQ_Replicator_v1.0.4_net48\Chart_Replicator\obj\Debug\Chart_Replicator.csproj.CoreCompileInputs.cache
+D:\Desktop\PQ_Replicator_v1.0.4_net48\Chart_Replicator\obj\Debug\Chart_Replicator.exe
+D:\Desktop\PQ_Replicator_v1.0.4_net48\Chart_Replicator\obj\Debug\Chart_Replicator.pdb
